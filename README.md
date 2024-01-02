@@ -1,4 +1,4 @@
-<h1>Lesson 1 Notes</h1>
+<h1>Notes</h1>
 
 <table>
   <tr>
